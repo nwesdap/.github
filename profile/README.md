@@ -1,1 +1,1 @@
-![image](https://nwesdap.net/img/nwesdap.svg)
+[![NWESDAP logo](https://nwesdap.net/img/nwesdap.svg)](https://nwesdap.net/)
